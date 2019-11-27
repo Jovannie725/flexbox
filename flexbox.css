@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  background-color: black;
+justify-content: space-around;
+}
+
+.navbar > div {
+background-color: #00FF00;
+width: 80px;
+margin: 10px;
+text-align: center;
+line-height: 40px;
+font-size: 20px;
+height: 40px;
+text-transform: uppercase;
+}
